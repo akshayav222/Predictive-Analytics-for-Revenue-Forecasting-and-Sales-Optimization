@@ -24,7 +24,7 @@ The following models were implemented and evaluated for forecasting:
 - **SARIMA (Seasonal ARIMA)**
 - **Prophet (by Meta)**
 
-Each model was tested using appropriate evaluation metrics such as MAE, RMSE, and MAPE to determine forecasting accuracy.
+Each model was tested using appropriate evaluation metrics such as MAE, RMSE, and R^2 score to determine forecasting accuracy.
 
 ---
 
