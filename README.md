@@ -46,13 +46,6 @@ Each model was tested using appropriate evaluation metrics such as MAE, RMSE, an
 
 ---
 
-## 📂 Project Structure
-
-├── data/ # Raw and cleaned datasets ├── notebooks/ # Jupyter notebooks for each model ├── models/ # Saved models or scripts ├── results/ # Visualizations and output reports ├── README.md # Project overview └── requirements.txt # Python dependencies
-
-
----
-
 ## ✅ How to Run
 
 1. Clone the repository:
@@ -73,7 +66,7 @@ Each model was tested using appropriate evaluation metrics such as MAE, RMSE, an
 
 ---
 
-##📌 Future Enhancements
+## 📌 Future Enhancements
 - Integration with dashboards (e.g., Power BI or Streamlit)
 - Hyperparameter tuning for model improvement
 - Real-time data integration
